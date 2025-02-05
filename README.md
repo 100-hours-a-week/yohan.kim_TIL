@@ -9,5 +9,6 @@ TIL은 ‘Today I Learned’ 약자로 한국어로 번역하면 ‘오늘 내�
   
   - [25/02/03](https://github.com/100-hours-a-week/yohan.kim_TIL/blob/main/Feb/2025-02-03.md)
   - [25/02/04](https://github.com/100-hours-a-week/yohan.kim_TIL/blob/main/Feb/2025-02-04.md)
+  - [25/02/05](https://github.com/100-hours-a-week/yohan.kim_TIL/blob/main/Feb/2025-02-05.md)
   
 </details>
